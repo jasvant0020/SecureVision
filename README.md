@@ -11,7 +11,7 @@ This project is a person detection system built using YOLOv8 and OpenCV. The app
 
 ## Demo
 
-🎥 [Watch the video here]([https://drive.google.com/file/d/1A2B3C4D5E6F/view?usp=sharing](https://drive.google.com/file/d/1TUt24YyEmKbCazmqO6IQSZUcKsrZ99jd/view?usp=sharing))
+🎥 [Watch the video here]((https://drive.google.com/file/d/1TUt24YyEmKbCazmqO6IQSZUcKsrZ99jd/view?usp=sharing))
 
 ![Detection in Action](assets/demo.png) <!-- Replace with your actual demo GIF or screenshot -->
 
