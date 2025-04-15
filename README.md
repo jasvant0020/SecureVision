@@ -24,5 +24,12 @@ This project is a person detection system built using YOLOv8 and OpenCV. The app
 
 The required libraries are listed in `requirements.txt`. Install them using:
 
+
+## 📄 License
+
+
+This project is licensed under the [MIT License](LICENSE).
+
+
 ```bash
 pip install -r requirements.txt
